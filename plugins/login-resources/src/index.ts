@@ -1,5 +1,5 @@
 //
-// Copyright © 2020, 2021 Anticrm Platform Contributors.
+// Copyright © 2020, 2024 digitrans Inc.
 // Copyright © 2021 Digitrans Inc.
 //
 // Licensed under the Eclipse Public License, Version 2.0 (the "License");
@@ -29,7 +29,7 @@ import {
 } from './utils'
 /*!
  * Anticrm Platform™ Login Plugin
- * © 2020, 2021 Anticrm Platform Contributors.
+ * © 2020, 2021 Digitrans Inc.
  * © 2021 Digitrans Inc. All Rights Reserved.
  * Licensed under the Eclipse Public License, Version 2.0
  */

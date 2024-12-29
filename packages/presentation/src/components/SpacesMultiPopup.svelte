@@ -1,5 +1,5 @@
 <!--
-// Copyright © 2020 Anticrm Platform Contributors.
+// Copyright © 2020 Digitrans Inc.
 // Copyright © 2023 Digitrans Inc.
 //
 // Licensed under the Eclipse Public License, Version 2.0 (the "License");

@@ -2,7 +2,7 @@
   "name": "@digitranslab/view-assets",
   "version": "0.6.11",
   "main": "src/index.ts",
-  "author": "Anticrm Platform Contributors",
+  "author": "Digitrans Inc",
   "template": "@digitranslab/assets-package",
   "license": "EPL-2.0",
   "scripts": {
