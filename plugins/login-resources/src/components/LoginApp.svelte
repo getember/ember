@@ -136,7 +136,7 @@
         style:top={'3rem'}
         class="flex-row-center"
       >
-        <LoginIcon /><span class="fs-title ml-2">Ember Platform</span>
+        <LoginIcon /><span class="fs-title ml-2">Platform</span>
 <!--        <LoginIcon /><span class="fs-title ml-2">{getMetadata(workbench.metadata.PlatformTitle)}</span>-->
       </div>
 
