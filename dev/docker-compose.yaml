@@ -478,7 +478,7 @@ services:
       - MONGO_URL=${MONGO_URL}
       - ACCOUNTS_URL=http://host.docker.internal:3000
       - SUPPORT_WORKSPACE=support
-      - FIRST_NAME=Jolie
+      - FIRST_NAME=Boraq
       - LAST_NAME=AI
       - PASSWORD=password
       - AVATAR_PATH=./avatar.png
